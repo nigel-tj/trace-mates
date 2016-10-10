@@ -67,3 +67,15 @@
     from { transform: rotate(0deg); }
     to { transform: rotate(359deg); }
 }
+
+/*
+  overides for web interface customisations
+*/
+
+.x-window-header-default {
+    background-color: #d2d6df;
+}
+
+.x-body{
+    background: #d2d6df;
+}
