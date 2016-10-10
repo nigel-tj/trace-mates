@@ -16,6 +16,6 @@
  */
 
 Ext.application({
-    name: 'Traccar',
+    name: 'TrackMates',
     extend: 'Traccar.Application'
 });
